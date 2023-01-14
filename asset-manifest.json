@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recipes-app-test/static/css/main.8de3c7c6.css",
+    "main.js": "/recipes-app-test/static/js/main.dbbc94e4.js",
+    "static/media/mealIcon.svg": "/recipes-app-test/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
+    "static/media/shareIcon.svg": "/recipes-app-test/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/recipes-app-test/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/recipes-app-test/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/recipes-app-test/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/recipes-app-test/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/drinkIcon.svg": "/recipes-app-test/static/media/drinkIcon.efc0d3c156e5da73e44a826c8d67b142.svg",
+    "index.html": "/recipes-app-test/index.html",
+    "main.8de3c7c6.css.map": "/recipes-app-test/static/css/main.8de3c7c6.css.map",
+    "main.dbbc94e4.js.map": "/recipes-app-test/static/js/main.dbbc94e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de3c7c6.css",
+    "static/js/main.dbbc94e4.js"
+  ]
+}
